@@ -29,4 +29,4 @@ To analyze historical NIFTY 50 data and derive insights using Python and Power B
 - Interactive dashboard improves analysis
 
 ## Author
-M. Deveshkumar
+M. Devesh kumar
