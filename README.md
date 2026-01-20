@@ -1,7 +1,5 @@
 # RD-INFRO-TECHNOLOGY
 Data Analysis Internship – NIFTY 50 Project
-# RD INFRO TECHNOLOGY – Data Analysis Internship
-
 ## Project Title
 NIFTY 50 Stock Market Data Analysis (2000–2025)
 
